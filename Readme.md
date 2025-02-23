@@ -1,7 +1,3 @@
-Ótimo! Agora que eu já tenho o código e o `README.md`, vou atualizá-lo com base nas novas funções que você adicionou, como a possibilidade de ler, formatar o boletim e a organização do código. Aqui está a versão atualizada do seu `README.md`:
-
----
-
 # Boletim Escolar 2.0 - Python
 
 Este é um programa simples em Python criado para **estudar a manipulação de arquivos**. O código permite registrar as notas de um aluno em diversas matérias, ler as notas armazenadas e formatar o boletim (limpando o arquivo). O objetivo principal é entender como capturar dados interativos do usuário e gravá-los de forma organizada em um arquivo de texto.
